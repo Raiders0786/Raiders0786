@@ -9,11 +9,15 @@
 
 <p align="left"> <a href="https://twitter.com/__raiders" target="blank"><img src="https://img.shields.io/twitter/follow/__raiders?logo=twitter&style=for-the-badge" alt="__raiders" /></a> </p>
 
-- 🔭 I’m currently working on [Web3Sec.News](https://web3sec.news)
+- 🛡️ I'm the creator of **[Web3Sec.News](https://www.web3sec.news/)**, *a go-to platform and newsletter for Web3 security researchers, delivering everything in one place*.
+  
+- 🔍 As a **Security Researcher** & **DevSecOps Engineer**, I dissect vulnerabilities in **Web & Mobile apps**, networks, & smart contracts.
+  
+- 🚀 My work spans **DevSecOps**, **Incident Response**, and **CVE research** (CVE-2023-3067, CVE-2022-4722).
 
 - 🌱 I’m currently learning **ZK Security, advanced DevSecOps, and blockchain infrastructure**
 
-- 👯 I’m looking to collaborate on **Technical Writing, Product Security, DevSecOps, Smart Contract Auditing & Tooling**
+- 👯 I’m looking to collaborate on **Technical Writing, Product Security, CVE Research, DevSecOps, Smart Contract Auditing & Tooling**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://raiders0786.github.io/Portfolio/)
 

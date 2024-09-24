@@ -13,7 +13,7 @@
   
 - 🔍 As a **Security Researcher** & **DevSecOps Engineer**, I dissect vulnerabilities in **Web & Mobile apps**, networks, & smart contracts.
   
-- 🚀 My work spans **DevSecOps**, **Incident Response**, and **CVE research** (CVE-2023-3067, CVE-2022-4722).
+- 🚀 My work spans **DevSecOps**, **Incident Response**, and **CVE research** ([CVE-2023-3067](https://infosecwriteups.com/22-6k-github-stars-note-taking-app-hit-by-critical-xss-vulnerability-842da56ae265), [CVE-2022-4722](https://nvd.nist.gov/vuln/detail/CVE-2022-4722)).
 
 - 🌱 I’m currently learning **ZK Security, advanced DevSecOps, and blockchain infrastructure**
 

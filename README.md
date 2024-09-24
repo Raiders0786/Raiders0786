@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **ZK Security, advanced DevSecOps, and blockchain infrastructure**
 
-- 👯 I’m looking to collaborate on **Technical Writing, Web2 & Web3 DevSecOps Tools**
+- 👯 I’m looking to collaborate on **Technical Writing, Product Security, DevSecOps, Smart Contract Auditing & Tooling**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://raiders0786.github.io/Portfolio/)
 

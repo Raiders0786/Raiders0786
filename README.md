@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/Raiders0786/Raiders0786/blob/main/security_banner.png)](https://web3sec.news)
 
 <h1 align="center">Hi 👋, I'm Chirag Agrawal</h1>
-<h3 align="center">I'm a Security Researcher & DevSecOps Professional</h3>
+<h3 align="center">I'm a Security Engineer & DevSecOps Professional</h3>
 
 <img align="right" alt="hackinggg" width="400" src="https://user-images.githubusercontent.com/67410476/142714864-95efafbd-c99b-4991-be24-f8c776fbb8c0.gif">
 

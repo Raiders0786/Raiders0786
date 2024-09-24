@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [Medium](https://chirag-agrawal.medium.com/)
 
-- 💬 Ask me about **mart contract security, Web3 DevSecOps, penetration testing, and incident response**
+- 💬 Ask me about **Smart Contract Security, Web3, DevSecOps, Penetration Testing, Product R&D, and Inident Response**
 
 - 📫 How to reach me **chiragkcv2020@gmail.com**
 

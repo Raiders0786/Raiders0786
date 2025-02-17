@@ -11,7 +11,7 @@
 
 - 🛡️ I'm the creator of **[Web3Sec.News](https://www.web3sec.news/)**, *a go-to platform and newsletter for Web3 security researchers, delivering everything in one place*.
   
-- 🔍 As a **Security Researcher** & **DevSecOps Engineer**, I dissect vulnerabilities in **Web & Mobile apps**, networks, & smart contracts.
+- 🔍 As a **Security Researcher** & **Technical Writer**, I dissect vulnerabilities in **Web & Mobile apps**, networks, & smart contracts.
   
 - 🚀 My work spans **DevSecOps**, **Incident Response**, and **CVE research** ([CVE-2023-3067](https://infosecwriteups.com/22-6k-github-stars-note-taking-app-hit-by-critical-xss-vulnerability-842da56ae265), [CVE-2022-4722](https://nvd.nist.gov/vuln/detail/CVE-2022-4722)).
 

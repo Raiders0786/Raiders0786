@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Raiders0786/Raiders0786/blob/main/security_banner.png)](https://web3sec.news)
+![image](https://github.com/user-attachments/assets/33a6dded-1448-464f-93bb-681daf687e00)[![MasterHead](https://github.com/Raiders0786/Raiders0786/blob/main/security_banner.png)](https://web3sec.news)
 
 <h1 align="center">Hi 👋, I'm Chirag </h1>
 <h3 align="center">I'm a Security Engineer & Technical Writer</h3>
@@ -45,7 +45,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raiders0786&show_icons=true&locale=en&theme=tokyonight" alt="raiders0786" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raiders0786&theme=tokyonight" alt="raiders0786" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raiders0786&theme=tokyonight" alt="Raiders0786" /></p>
 
 ---
 ### 🏆 GitHub Trophies

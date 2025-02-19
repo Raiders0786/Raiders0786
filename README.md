@@ -45,7 +45,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raiders0786&show_icons=true&locale=en&theme=tokyonight" alt="raiders0786" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raiders0786&theme=tokyonight" alt="Raiders0786" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raiders0786&theme=tokyonight" alt="Raiders0786" /></p> -->
 
 ---
 ### 🏆 GitHub Trophies

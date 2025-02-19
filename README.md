@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/33a6dded-1448-464f-93bb-681daf687e00)[![MasterHead](https://github.com/Raiders0786/Raiders0786/blob/main/security_banner.png)](https://web3sec.news)
+[![MasterHead](https://github.com/Raiders0786/Raiders0786/blob/main/security_banner.png)](https://web3sec.news)
 
 <h1 align="center">Hi 👋, I'm Chirag </h1>
 <h3 align="center">I'm a Security Engineer & Technical Writer</h3>

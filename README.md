@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **ZK Security, advanced DevSecOps, OPSEC (Operational Security) and blockchain infrastructure**
 
-- 👯 I’m looking to collaborate on **Technical Writing, Product Security, CVE Research, DevSecOps, Smart Contract Auditing & Tooling**
+- 👯 I’m looking to collaborate on **Technical Writing, Product Security, Supply Chain Security, Opserational Security, CVE Research, DevSecOps, Smart Contract Auditing & Tooling**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://raiders0786.github.io/Portfolio/)
 

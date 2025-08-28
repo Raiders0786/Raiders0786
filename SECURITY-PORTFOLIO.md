@@ -22,7 +22,7 @@ I work as a professional security researcher focusing on web application securit
 ## Professional Security Research
 
 ### Synack Red Team Researcher
-Currently working as a vetted researcher on the Synack Red Team platform, conducting security assessments for Fortune 500 companies and enterprise clients. I've reported over 150 vulnerabilities through private engagements, focusing on:
+Working as a vetted researcher on the [Synack Red Team platform](https://www.synack.com/red-team/), conducting security assessments for Fortune 500 companies and enterprise clients. I've reported over 150 vulnerabilities through private engagements, focusing on:
 
 - Complex business logic flaws in enterprise applications
 - API security testing and authentication bypass techniques  
